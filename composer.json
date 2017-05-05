@@ -1,5 +1,5 @@
 {
-    "name" : "Main Repo",
+    "name" : "ppp",
     "require": {
         "paul7337/test-dependancy": "dev-master"
     }
