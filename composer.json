@@ -1,4 +1,5 @@
 {
+    "name" : "Main Repo",
     "require": {
         "paul7337/test-dependancy": "dev-master"
     }
