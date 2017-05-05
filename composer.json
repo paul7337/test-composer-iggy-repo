@@ -1,5 +1,5 @@
 {
-    "name" : "ppp",
+    "name" : "test-composer-iggy-repo",
     "require": {
         "paul7337/test-dependancy": "dev-master"
     }
