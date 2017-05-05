@@ -1,5 +1,11 @@
 {
     "name" : "paul7337/test-composer-iggy-repo",
+     "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/paul7337/test-dependancy"
+        }
+    ],
     "require": {
         "paul7337/test-dependancy": "dev-master"
     }
