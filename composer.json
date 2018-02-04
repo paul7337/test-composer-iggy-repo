@@ -1,5 +1,5 @@
 {
-    "name" : "p_repo_test",
+    "name" : "paul7337/p_repo_test",
     "require": {
         "paul7337/test-dependancy": "dev-master"
     }
