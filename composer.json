@@ -1,3 +1,9 @@
 {
-    "name" : "paul7337/test-composer-iggy-repo"
+    "name" : "paul7337/test-composer-iggy-repo",
+    "require": {
+        "paul7337/test-dependancy": "dev-master"
+    },
+    "config": {
+        "vendor-dir": "Core"
+    }
 }
