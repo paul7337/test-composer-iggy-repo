@@ -6,6 +6,9 @@
             "url": "../../packages/Core"
         }
     ],
+    "require": {
+        "paul7337/test-dependancy": "dev-master"
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
