@@ -1,0 +1,6 @@
+{
+    "name" : "element",
+    "require": {
+        "paul7337/test-dependancy": "dev-master"
+    }
+}
