@@ -1,3 +1,9 @@
 {
-    "name" : "paul7337/test-dependancy"
+    "name" : "testr",
+    "require": {
+        "paul7337/test-dependancy": "dev-master"
+    }, 
+    "config": {
+        "vendor-dir": "../../Core"
+    }
 }
