@@ -7,7 +7,7 @@
         }
     ],
     "require": {
-        "paul7337/test-composer-iggy-repo": "dev-master"
+        "paul7337/test-dependancy": "dev-master"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
