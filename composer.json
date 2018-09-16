@@ -1,3 +1,14 @@
 {
-    "name" : "paul7337/test-composer-iggy-repo"
+    "name" : "paul7337/test-composer-iggy-repo",
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../../packages/Core"
+        }
+    ],
+    "require": {
+        "paul7337/test-composer-iggy-repo": "dev-master"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
